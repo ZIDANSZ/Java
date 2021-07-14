@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nothing
-- 👀 I’m interested in programiojg $ Photography
+- 👀 I’m interested in programiojg & Photography
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on diffrent projects
 - 📫 How to reach me ...
