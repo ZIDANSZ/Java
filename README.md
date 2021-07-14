@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZIDANSZ
+- 👋 Hi, I’m Nothing
 - 👀 I’m interested in programiojg $ Photography
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on diffrent projects
